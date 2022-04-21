@@ -1,0 +1,24 @@
+{
+  "name": "kodemia-todo-17",
+  "version": "1.0.0",
+  "description": "This is the back end for the Kodemia To-Do app of the 17th Generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahuahuachi/kodemia-todo-17.git"
+  },
+  "keywords": [
+    "todo",
+    "backend",
+    "kodemia"
+  ],
+  "author": "@ahuahuachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ahuahuachi/kodemia-todo-17/issues"
+  },
+  "homepage": "https://github.com/Ahuahuachi/kodemia-todo-17#readme"
+}

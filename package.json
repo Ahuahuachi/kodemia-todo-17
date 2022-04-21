@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/Ahuahuachi/kodemia-todo-17/issues"
   },
-  "homepage": "https://github.com/Ahuahuachi/kodemia-todo-17#readme"
+  "homepage": "https://github.com/Ahuahuachi/kodemia-todo-17#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  }
 }
